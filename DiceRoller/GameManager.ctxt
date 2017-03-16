@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameManager
+comment1.params=
+comment1.target=void\ gameLoop()
+comment2.params=
+comment2.target=boolean\ checkPlayAgain()
+comment3.params=
+comment3.target=void\ printGoodbye()
+numComments=4

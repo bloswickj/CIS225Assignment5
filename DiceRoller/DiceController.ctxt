@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DiceController
+comment1.params=
+comment1.target=DiceController()
+comment2.params=
+comment2.target=void\ addDice()
+comment3.params=
+comment3.target=java.util.ArrayList\ rollDice()
+comment4.params=rolls
+comment4.target=boolean\ checkRollsForBust(java.util.ArrayList)
+comment5.params=rolls
+comment5.target=boolean\ checkRollsForTargetNumber(java.util.ArrayList)
+comment6.params=rolls
+comment6.target=void\ printRolls(java.util.ArrayList)
+comment7.params=
+comment7.target=void\ setTargetNumber()
+comment8.params=dieType
+comment8.target=void\ addDie(int)
+numComments=9
